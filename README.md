@@ -1,13 +1,13 @@
 # Heart_Disease_prediction
 Goal:
-Predict whether a patient should be diagnosed with Heart Disease. This is a binary outcome.
-Positive (+) = 1, patient diagnosed with Heart Disease
-Negative (-) = 0, patient not diagnosed with Heart Disease
-Experiment with various Classification Models & see which yields greatest accuracy.
-Examine trends & correlations within our data
-Determine which features are most important to Positive/Negative Heart Disease diagnosis
-Features & Predictor:
-Our Predictor (Y, Positive or Negative diagnosis of Heart Disease) is determined by 13 features (X):
+Predict whether a patient should be diagnosed with Heart Disease. This is a binary outcome.<br/>
+Positive (+) = 1, patient diagnosed with Heart Disease<br/>
+Negative (-) = 0, patient not diagnosed with Heart Disease<br/>
+Experiment with various Classification Models & see which yields greatest accuracy.<br/>
+Examine trends & correlations within our data<br/>
+Determine which features are most important to Positive/Negative Heart Disease diagnosis<br/>
+Features & Predictor:<br/>
+Our Predictor (Y, Positive or Negative diagnosis of Heart Disease) is determined by 13 features (X):<br/>
 1. age (#)
 2. sex : 1= Male, 0= Female (Binary)
 3. (cp)chest pain type (4 values -Ordinal):Value 1: typical angina ,Value 2: atypical angina, Value 3: non-anginal pain , Value 4: asymptomatic
